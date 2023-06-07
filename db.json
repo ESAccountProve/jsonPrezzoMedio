@@ -3,14 +3,14 @@
     {
       "id": "MTIzNDU2fGNpYW8=",
       "prodotto": "GASOLIO",
-      "prezzo_regionale": 1.890,
+      "prezzo_regionale": 1.649,
       "prezzo_nazionale": 1.400,
       "data_decorrenza": "2023-05-15 08:30"
     },
     {
       "id": "MTIzNDU3fGNpYW8=",
       "prodotto": "BENZINA",
-      "prezzo_regionale": 1.990,
+      "prezzo_regionale": 1.789,
       "prezzo_nazionale": 1.600,
       "data_decorrenza": "2023-05-15 08:30"
     },
